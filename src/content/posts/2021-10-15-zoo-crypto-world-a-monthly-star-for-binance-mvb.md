@@ -8,15 +8,19 @@ description: Zoo Crypto World (ZooCW) has just earned a Binance Most Valuable
   the quality, security, and strength of the platform! Congratulations, ZooCW!
 featuredImage: /assets/binance-monthly-stars-sept.png
 ---
-Zoo Crypto World (ZooCW) has just earned a Binance Most Valuable Buidler (not a typo) star. This means that the Binance MVB program recognizes the quality, security, and strength of the platform! Congratulations, ZooCW!
+# Binance Stars Revealed - Zoo Crypto World Awarded
 
-![zoocw twitter cap](/assets/zoocw.png "Follow ZooCW on Twitter: @zoogamepro")
+Zoo Crypto World (ZooCW) has just earned a star from the Binance Most Valuable Buidler (not a typo) program. This means that the Binance MVB program recognizes the quality, security, and strength of the platform. Congratulations, ZooCW!
+
+![zoocw twitter page](/assets/zoocw.png "Follow ZooCW on Twitter: @zoogamepro")
 
 The incredible news of Zoo Crypto World (ZooCW) receiving a September 2021 MVB Star will certainly encourage holders of the $Zoo token and GameFi enthusiasts everywhere! 
 
 The release of September stars follows closely on the heels of news that $USD200 million will be invested in the MVB program out of a whopping $USD1 Billion growth fund for the Binance Smart Chain. You can find that announcement [here](https://www.binance.org/en/blog/binance-launches-one-billion-binance-smart-chain-fund-to-reach-one-billion-crypto-users/).
 
-What is Zoo Crypto World? It is a platform for GameFi (a mix of gaming and decentralized finance) that allows you to stake tokens, buy NFTs (non-fungible tokens), do PVP (player versus player) matches, join the community in PVE (player versus environment - usually a boss fight), and more!
+## Zoo Crypto World: An Excellent GameFi Platform
+
+Zoo Crypto World is a platform for GameFi (a mix of gaming and decentralized finance) that allows you to stake tokens, buy NFTs (non-fungible tokens), do PVP (player versus player) matches, join the community in PVE (player versus environment - usually a boss fight), and more!
 
 ![Zoo Combat Screen](/assets/combatscreenzoo.png "The Combat Screen of ZooCW Player Versus Environment")
 
