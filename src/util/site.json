@@ -3,9 +3,9 @@
     "title": "GameFi Global",
     "titleTemplate": "%s",
     "description": "An Awesome Site for GameFi Exploration and Analysis",
-    "siteUrl": "https://gamefiglobal.infokit.dev",
+    "siteUrl": "https://gamefiglobal.dev",
     "image": "/assets/android-chrome-512x512.png",
-    "iconimage": "/assets/favicon.ico",
+    "iconimage": "/assets/favicon-32x32.png",
     "twitterUsername": "@GamefiGlobal"
   },
   "ga": "UA-XXXXXXXXX-X"
