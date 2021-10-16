@@ -3,7 +3,8 @@ import { jsx } from "theme-ui"
 import { Link, graphql } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
 import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
-
+ 
+import HyvorTalk from 'hyvor-talk-react'
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
@@ -113,6 +114,8 @@ const Post = ({ data, pageContext }) => {
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </article>
+
+      <HyvorTalk.Embed websiteId={5419}  />
       {(previous || next) && <Pagination {...props} />}
     </Layout>
   )
