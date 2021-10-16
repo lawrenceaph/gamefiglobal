@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Zoo Crypto World a Monthly Star for Binance MVB
-slug: zoo-crypto-world-binance-mvb-monthly-star-september
+slug: /articles/zoo-crypto-world-binance-mvb-monthly-star-september
 date: 2021-10-16 06:12
 description: Zoo Crypto World (ZooCW) has just earned a Binance Most Valuable
   Builder star. This means that the Binance MVB program recognizes the quality,

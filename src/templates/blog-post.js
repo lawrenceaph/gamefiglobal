@@ -116,6 +116,7 @@ const Post = ({ data, pageContext }) => {
       </article>
 
       <HyvorTalk.Embed websiteId={5419}  />
+      {(previous || next) && <Pagination {...props} />}
 
       
     </Layout>
