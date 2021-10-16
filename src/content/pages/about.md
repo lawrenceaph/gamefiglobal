@@ -11,8 +11,8 @@ In the event that you see a recommendation on this site, know that we only recom
 
 Communities we are a part of:
 
-![ZooCw logo](/assets/zoocwlog.png "Zoo Crypto World")
+![ZooCw logo](/assets/zoo.png "Zoo Crypto World")
 
-![Mobox (mbox) Token Logo](/assets/mboxlog.png "Mobox")
+![Mobox (mbox) Token Logo](/assets/mobox.webp "Mobox")
 
-![Jojo Logo](/assets/jojolog.png "Jojo Fun Metaverse")
+![Jojo Logo](/assets/jojo.webp "Jojo Fun Metaverse")
