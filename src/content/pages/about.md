@@ -9,7 +9,7 @@ While we intend to provide helpful data and analysis, all cryptocurrency trading
 
 In the event that you see a recommendation on this site, know that we only recommend platforms we actually use and invest in ourselves.
 
-Communities we are a part of:
+Communities we are a part of: 
 
 ![ZooCw logo](/assets/zoo.png "Zoo Crypto World")
 
