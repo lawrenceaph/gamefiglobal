@@ -14,6 +14,7 @@ const Footer = () => (
         
       </p>
     </div>
+    <script type="text/javascript" charset="UTF-8" src="//cdn.cookie-script.com/s/e39dffecdbaf4ba2a764209efe444128.js"></script>
   </footer>
 )
 
