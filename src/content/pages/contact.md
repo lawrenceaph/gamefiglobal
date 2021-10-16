@@ -1,6 +1,6 @@
 ---
 template: contact-page
 slug: /contact
-title: Reach us through out twitter.
+title: Reach us through this Form. 
 ---
-[GameFiGlobal](https://twitter.com/GamefiGlobal).
+Also Find us On Twitter: [GameFiGlobal](https://twitter.com/GamefiGlobal).
