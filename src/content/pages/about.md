@@ -11,4 +11,4 @@ In the event that you see a recommendation on this site, know that we only recom
 
 These are some of the communities (and tokens) that GameFi Global invests in and supports: 
 
-![Zoo Mobox Jojo logos](/assets/communities.png "Awesome GameFi Platforms: ZooCW, Mobox, Jojo")
+![Zoo Mobox Jojo logos](/assets/zmj.png "Awesome GameFi Platforms: ZooCW, Mobox, Jojo")
