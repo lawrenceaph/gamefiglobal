@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: GameFi Fundametal Concepts
-slug: /articles/Game-Fi-Fundamentals
+title: GameFi Fundametal Concepts (Part One)
+slug: /articles/Game-Fi-Fundamentals-Part-One
 date: 2021-10-16 09:35
 description: "Fundamental concepts in GameFi, the union of gaming and
   decentralized finance. "
